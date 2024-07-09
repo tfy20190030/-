@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Git\\algorithm\\ReverseNode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7486B298-9BAD-4D2F-A1DB-52A24F76EF3D}|ReverseNode.vcxproj|E:\\Git\\algorithm\\ReverseNode\\ReverseNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7486B298-9BAD-4D2F-A1DB-52A24F76EF3D}|ReverseNode.vcxproj|solutionrelative:ReverseNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReverseNode.cpp",
+              "DocumentMoniker": "E:\\Git\\algorithm\\ReverseNode\\ReverseNode.cpp",
+              "RelativeDocumentMoniker": "ReverseNode.cpp",
+              "ToolTip": "E:\\Git\\algorithm\\ReverseNode\\ReverseNode.cpp",
+              "RelativeToolTip": "ReverseNode.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-09T10:21:30.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
